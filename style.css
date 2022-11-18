@@ -1,0 +1,28 @@
+h1{
+    margin-left: 65px;
+}
+.drop{
+    margin-left: 70px;
+}
+#image img{
+    height: 500px;
+    width: 300px;
+    padding: 10px 10px;
+    float: left;
+}
+#left{
+    float: left;
+    margin-top: 250px;
+    border-radius: 10px;
+    font-size:1.5em;
+    color:tomato;
+    background-color: slategray;
+}
+#right{
+    float: left;
+    margin-top: 250px;
+    border-radius: 10px;
+    font-size:1.5em;
+    color:tomato;
+    background-color: slategray;
+}
